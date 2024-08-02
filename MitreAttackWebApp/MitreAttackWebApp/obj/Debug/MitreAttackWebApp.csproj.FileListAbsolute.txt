@@ -1,0 +1,166 @@
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.dll.config
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.pdb
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.exe
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.exe.config
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.rsp
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.exe
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.exe.config
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.rsp
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Console.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.exe
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.exe.config
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.rsp
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Antlr3.Runtime.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Newtonsoft.Json.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Helpers.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Mvc.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Optimization.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Razor.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\WebGrease.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Helpers.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Mvc.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Optimization.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Razor.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Newtonsoft.Json.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.AssemblyReference.cache
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.CopyComplete
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.dll
+C:\Users\kubra\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.pdb
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.dll.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\MitreAttackWebApp.pdb
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.exe.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csc.rsp
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.exe.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\csi.rsp
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Console.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.exe.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\vbc.rsp
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Antlr3.Runtime.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Newtonsoft.Json.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Helpers.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Mvc.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Optimization.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Razor.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\WebGrease.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Helpers.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Mvc.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Optimization.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.Razor.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Newtonsoft.Json.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.csproj.CopyComplete
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.dll
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttackWebApp\MitreAttackWebApp\obj\Debug\MitreAttackWebApp.pdb
