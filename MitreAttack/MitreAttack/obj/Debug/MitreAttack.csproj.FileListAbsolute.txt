@@ -1,0 +1,24 @@
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.AssemblyReference.cache
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Login.resources
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.SignUp.resources
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Properties.Resources.resources
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.GenerateResource.cache
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.CoreCompileInputs.cache
+C:\Users\kubra\MitreAttack\MitreAttack\bin\Debug\MitreAttack.exe.config
+C:\Users\kubra\MitreAttack\MitreAttack\bin\Debug\MitreAttack.exe
+C:\Users\kubra\MitreAttack\MitreAttack\bin\Debug\MitreAttack.pdb
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Test.resources
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.exe
+C:\Users\kubra\MitreAttack\MitreAttack\obj\Debug\MitreAttack.pdb
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\bin\Debug\MitreAttack.exe.config
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\bin\Debug\MitreAttack.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\bin\Debug\MitreAttack.pdb
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Login.resources
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.SignUp.resources
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Test.resources
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.Properties.Resources.resources
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.GenerateResource.cache
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.exe
+C:\Users\kubra\Desktop\4.2\CYBER SECURITY\KÜBRA YEŞİLKAYA FINAL PROJECT\MitreAttack\MitreAttack\obj\Debug\MitreAttack.pdb
