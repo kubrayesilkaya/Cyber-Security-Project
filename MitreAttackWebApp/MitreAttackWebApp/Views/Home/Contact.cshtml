@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .icon, .github-icon {
+            font-size: 24px;
+            margin-right: 5px;
+            color: black; 
+        }
+
+        .linkedin-icon {
+            color: #0077B5; 
+        }
+
+        .contact-info {
+            margin-bottom: 40px; 
+        }
+
+        #title {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <main class="container py-5" aria-labelledby="title">
+        <h2 id="title">@ViewBag.Title.</h2>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 contact-info">
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Developer Name</h5>
+                        <p class="card-text">Kübra Yeşilkaya</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">University</h5>
+                        <p class="card-text">Maltepe University</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">LinkedIn</h5>
+                        <p class="card-text">
+                            <a href="https://www.linkedin.com/in/kubrayesilkaya/" target="_blank">
+                                <i class="fab fa-linkedin icon linkedin-icon"></i> LinkedIn Profile
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Medium</h5>
+                        <p class="card-text">
+                            <a href="https://www.linkedin.com/in/kubrayesilkaya/" target="_blank">
+                                <i class="fab fa-medium icon"></i> kubrayesilkaya.ky
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">GitHub</h5>
+                        <p class="card-text">
+                            <a href="https://github.com/kubrayesilkaya" target="_blank">
+                                <i class="fab fa-github icon github-icon"></i> kubrayesilkaya
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">Mail</h5>
+                        <p class="card-text">
+                            <a href="mailto:190706006@st.maltepe.edu.tr">
+                                <i class="far fa-envelope icon"></i> 190706006@st.maltepe.edu.tr
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

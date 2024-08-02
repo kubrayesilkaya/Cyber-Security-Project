@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Page</title>
+    <style>
+        .about-section {
+            margin-bottom: 40px;
+        }
+
+        .attack {
+            margin-bottom: 20px;
+            margin-top: 30px;
+        }
+
+            .attack h3::before {
+                content: '\2605'; 
+                margin-right: 10px;
+                color: #FFD700;
+            }
+    </style>
+</head>
+<body>
+    <div class="about-section">
+        <h2>About Us</h2>
+        <p>Developing technology and increasing use of technology have resulted in an increase in cyber attacks that threaten data and system security. It is important to prevent possible data security vulnerabilities by systematically analyzing cyber attacks and testing the security of systems with relevant attacks.</p>
+        <p>Testing possible cyber attacks by attackers with the Miter Att&ck framework provides the opportunity for detailed analysis with categorized attacks. Carrying out Miter Att&ck cyber security test attacks on remote computers with agent-based software will be important to ensure digital security in detecting possible security vulnerabilities and preventing possible cyber attacks.</p>
+    </div>
+
+    <div class="attack-info">
+        <h2>Attack Information</h2>
+        <div class="attack">
+            <h3>T1614 System Location Discovery</h3>
+            <p>T1614 System Location Discovery is an attack technique based on estimating the location of the system through the use of various system controls 
+                such as time zone, keyboard layout and language settings, and revealing attack attempts by abusing system features. To detect the relevant 
+                vulnerability, the T1614 attack obtains the relevant information by querying the registry on the computer where the agent software is installed 
+                and the attack is carried out.</p>
+        </div>
+        <div class="attack">
+            <h3>T1518 Software Discovery</h3>
+            <p>T1518 Software Reconnaissance is an attack technique based on a vulnerability that allows effective attacks on system software to be designed by 
+                obtaining the list of software and software versions installed on the system. T1518 Software Discovery attack is based on the approach of performing 
+                tests to obtain system software and software versions information by querying the registry on the relevant computer where the agent software is 
+                installed, in line with the detection of the relevant vulnerability.</p>
+        </div>
+    </div>
+</body>
+</html>

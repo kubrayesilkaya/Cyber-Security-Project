@@ -1,0 +1,42 @@
+﻿@model List<MitreAttackWebApp.Models.Attack>
+
+<style>
+    .date-input {
+        margin-bottom: 15px; 
+    }
+
+    .button-container {
+        margin-left: 25px; 
+    }
+</style>
+
+<h2>Attacks with Code T614</h2>
+
+@using (Html.BeginForm("T1614", "Attack", FormMethod.Get))
+{
+    <div class="form-group d-inline-block date-input">
+        @Html.Label("Date Filter:")
+        @Html.TextBox("filterDate", null, new { @class = "form-control d-inline-block", type = "date" })
+    </div>
+    <div class="button-container d-inline-block">
+        <button type="submit" class="btn btn-primary">Filter</button>
+    </div>
+}
+
+<table class="table">
+    <tr>
+        <th>Attack ID</th>
+        <th>Attack Result</th>
+        <th>Attack Date</th>
+        <th>Attack Time</th>
+    </tr>
+    @foreach (var attack in Model)
+    {
+        <tr>
+            <td>@attack.AtackID</td>
+            <td>@attack.AttackResult</td>
+            <td>@attack.AttackDate.ToShortDateString()</td>
+            <td>@attack.AttackTime</td>
+        </tr>
+    }
+</table>
